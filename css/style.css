@@ -1,32 +1,19 @@
  /* RESET  */
- * {
+* {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
- }
+}
 
-  /* REGOLE GENERALI  */
-  /* .container {
-      width: ; 
+main {
+      font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-center {
+      text-align: center;
+}
+
+.image-center {
+      display: block;
       margin: 0 auto;
-  } */
-
-   /* HEADER  */
-
-    /* MAIN  */
-
-     /* FOOTER  */
-
-
-      /* DEBUG  */
-            .border {
-                  border: 2px dashed black;
-            }
-      
-            .box {
-                  background-color: aquamarine;
-            }
-
-            .box2 {
-                  background-color: yellow;
-            }
+}
